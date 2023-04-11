@@ -23,3 +23,24 @@ body{
 	background: linear-gradient(to bottom, rgba(0, 0, 0, 1.5), rgba(0, 0, 0, 0));
 }
 
+.nav{
+
+}
+
+.nav-link{
+	color: #ffffff;
+	padding-left: 60px;
+	padding-right: 20px;
+}
+
+.tarjetas{
+	display: flex;
+	flex-flow: wrap;
+	background-color: #c1c3c6;
+}
+
+.card{
+	margin: 13px;
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
